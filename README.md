@@ -61,5 +61,3 @@ aws ec2 deregister-image --image-id <AMI_ID>
 
 
 ---
-
-🚀 **Now your README is concise and complete!**
